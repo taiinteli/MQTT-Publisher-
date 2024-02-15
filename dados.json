@@ -1,0 +1,47 @@
+{
+    "product": "HOBOnet RXW-LIB-900 Solar Radiation Sensor",
+    "measurement_range": "0 to 1280 W/m2",
+    "spectral_range": "300 to 1100 nm",
+    "accuracy": "±10 W/m2 or ±5%, whichever is greater, under sunlight; Additional temperature-induced error ±0.38 W/m2/°C from 25°C",
+    "angular_accuracy": "Cosine corrected from 0 to 80 degrees from vertical",
+    "resolution": "1.25 W/m2",
+    "drift": "<±2% per year",
+    "operational_temperature_range": "-25° to 60°C with rechargeable batteries; -40 to 70°C with lithium batteries",
+    "radio_power": "12.6 mW (+11 dBm), non-adjustable",
+    "transmission_range": "Up to 600 meters line of sight",
+    "wireless_data_standard": "IEEE 802.15.4",
+    "operational_frequencies": {
+      "RXW_LIB_900": "904–924 MHz",
+      "RXW_LIB_868": "866.5 MHz",
+      "RXW_LIB_922": "916–924 MHz",
+      "RXW_LIB_921": "921 MHz"
+    },
+    "modulation": "oQPSK",
+    "data_rate": "Up to 250 kbps, non-adjustable",
+    "duty_cycle": "<1%",
+    "max_sensors": "Up to 50 wireless sensors or 336 data channels per HOBO RX station",
+    "logging_interval": "1 minute to 18 hours",
+    "data_channels": "2",
+    "battery_type": "Two 1.2 V AA NiMH rechargeable batteries or two 1.5 V AA lithium batteries",
+    "battery_life": "3–5 years with NiMH; 1 year with lithium, under normal use",
+    "memory": "16 MB",
+    "dimensions": {
+      "sensor": "4.1 cm height x 3.2 cm diameter",
+      "cable_length": "2 m",
+      "mote": "16.2 x 8.59 x 4.14 cm"
+    },
+    "weight": {
+      "sensor_and_cable": "109 g",
+      "mote": "223 g"
+    },
+    "materials": {
+      "sensor": "Anodized aluminum housing with acrylic diffuser and sealing ring",
+      "mote": "PCPBT, silicone rubber seal"
+    },
+    "environmental_rating": {
+      "sensor": "Weatherproof",
+      "mote": "IP67, NEMA 6"
+    },
+    "compliance_marks": ["RXW-LIB-900", "RXW-LIB-868", "RXW-LIB-922", "NCC Taiwan RXW-LIB-921"]
+  }
+  
